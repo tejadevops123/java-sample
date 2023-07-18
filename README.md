@@ -3,7 +3,7 @@
 ```sh
 cd /opt
 
-wget https://downloads.apache.org/maven/maven-3/3.6.3/binaries/apache-maven-3.6.3-bin.tar.gz
+wget [https://downloads.apache.org/maven/maven-3/3.6.3/binaries/apache-maven-3.6.3-bin.tar.gz](https://dlcdn.apache.org/maven/maven-3/3.9.3/source/apache-maven-3.9.3-src.tar.gz)
 
 tar -xvzf apache-maven-3.6.3-bin.tar.gz
 
